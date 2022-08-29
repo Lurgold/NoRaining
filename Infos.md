@@ -2,7 +2,6 @@
 
 Le script au cas ou :)
 
-on weather change to rain or thunder:
-	cancel event
-  
-  Aucun crédit nécessaire !
+Re télécharge le !
+
+Aucun crédit nécessaire !
