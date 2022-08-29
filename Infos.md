@@ -1,4 +1,4 @@
-# Désactive simplement la pluie
+Désactive simplement la pluie
 
 Le script au cas ou :)
 
