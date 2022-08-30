@@ -1,0 +1,3 @@
+on weather change to rain or thunder:
+	cancel event
+
